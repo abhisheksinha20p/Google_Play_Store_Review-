@@ -1,0 +1,6 @@
+pandas
+numpy
+streamlit
+google-cloud-bigquery
+google-play-scraper
+nltk
